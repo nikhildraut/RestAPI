@@ -1,0 +1,87 @@
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.dll.config
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.pdb
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\MySql.Data.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevtechAPI.csprojResolveAssemblyReference.cache
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevetchAPI.dll
+D:\Nikhil_Project\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevetchAPI.pdb
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.dll.config
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.pdb
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\MySql.Data.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevtechAPI.csprojResolveAssemblyReference.cache
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevetchAPI.dll
+D:\Devtech Projects\Devtechapi\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevetchAPI.pdb
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevtechAPI.csprojResolveAssemblyReference.cache
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevetchAPI.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\obj\Release\DevetchAPI.pdb
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.dll.config
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\DevetchAPI.pdb
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\MySql.Data.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+D:\Devtech Projects\Devtechapi\GDTAPI\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
